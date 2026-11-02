@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Amisha Shah!
 
-<!--
-**amisha-shah/amisha-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Software Development | ☁️ Aspiring Cloud & DevOps Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an MCA student with a background in Software Development and a strong interest in building innovative software solutions. I'm passionate about technology, problem-solving, and continuously expanding my technical skills.
+
+## 🚀 About Me
+- 🎓 Pursuing Master of Computer Applications (MCA).
+- 💻 Background in Software Development.
+- ☁️ Learning AWS and Cloud Computing.
+- 🐳 Exploring Docker, Jenkins, Linux, and CI/CD.
+- 🔧 Interested in Software Engineering, Cloud Technologies, and DevOps.
+- 🌱 Always eager to learn, build, and explore new technologies.
+
+## 🛠️ Technologies & Tools
+- **Cloud:** AWS
+- **DevOps:** Docker, Jenkins, CI/CD
+- **Development:** Software Development
+- **Tools:** Git, GitHub, Linux
+
+## 🎯 My Goal
+To grow as a Software and DevOps Engineer by developing practical skills and building real-world projects.
+
+## 🤝 Let's Connect
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
