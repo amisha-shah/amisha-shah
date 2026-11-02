@@ -7,12 +7,20 @@ Welcome to my GitHub profile!
 I'm an MCA student with a background in Software Development and a strong interest in building innovative software solutions. I'm passionate about technology, problem-solving, and continuously expanding my technical skills.
 
 ## 🚀 About Me
-🎓 Pursuing Master of Computer Applications (MCA).
+
+🎓 Currently pursuing Master of Computer Applications (MCA).
+
 💻 Background in Software Development.
+
 ☁️ Learning AWS and Cloud Computing.
+
 🐳 Exploring Docker, Jenkins, Linux, and CI/CD.
-🔧 Interested in Software Engineering, Cloud Technologies, and DevOps.
-🌱 Always eager to learn, build, and explore new technologies.
+
+🚀 Building hands-on projects in Cloud and DevOps.
+
+🧠 Passionate about learning new technologies and solving problems.
+
+🎯 Goal: Become a skilled Software & DevOps Engineer.
 
 
 ## 🛠️ Technologies & Tools
