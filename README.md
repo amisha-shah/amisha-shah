@@ -17,7 +17,9 @@ I'm an MCA student with a background in Software Development and a strong intere
 ## 🛠️ Technologies & Tools
 - **Cloud:** AWS
 - **DevOps:** Docker, Jenkins, CI/CD
-- **Development:** Software Development
+- **Development:** <p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css" />
+</p>
 - **Tools:** Git, GitHub, Linux
 
 ## 🎯 My Goal
