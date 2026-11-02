@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amisha Shah!
 
-🎓 MCA Student | 💻 Software Development | ☁️ Aspiring Cloud & DevOps Engineer
+🎓 MCA Student | ☁️ Aspiring Cloud & DevOps Engineer | 💻 Software Development
 
 Welcome to my GitHub profile!
 
@@ -44,6 +44,22 @@ I'm an MCA student with a background in Software Development and a strong intere
 
 ## 🎯 My Goal
 To grow as a Software and DevOps Engineer by developing practical skills and building real-world projects.
+
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/amisha-shah-145aa8281/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
 
 ## 🤝 Let's Connect
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
